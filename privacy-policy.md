@@ -60,7 +60,7 @@ We may update this policy from time to time. We’ll notify users through the ex
 ## 7. Contact Us
 
 If you have any questions, contact us at:  
-📧 **[your-support-email@example.com]**  
-🌐 **https://brahmastra.ai**  
+📧 **[ashishauti123@gmail.com]**  
+ 
 
 
