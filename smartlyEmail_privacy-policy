@@ -1,0 +1,92 @@
+# ✉️ Smartly Email — Write Smarter, Not Harder  
+
+Smartly Email is a lightweight Chrome extension that helps you **save, manage, and insert email templates directly inside Gmail**.  
+No more repetitive typing — make your Gmail smarter, faster, and more productive.  
+
+---
+
+## 🚀 Features  
+
+- **💾 Save Templates** — Store your frequently used email drafts (subject + body) directly in Gmail.  
+- **📂 Insert Instantly** — Access your saved templates with one click inside the compose window.  
+- **🧠 Smart Design** — A lightweight UI that blends seamlessly into Gmail.  
+- **⚡ Local & Secure** — Templates are stored securely in your browser using Chrome’s local storage.  
+- **🔒 No Data Collection** — Smartly Email never sends your data anywhere.  
+
+---
+
+## 🧭 How It Works  
+
+1. **Install** the Smartly Email extension from the Chrome Web Store.  
+2. **Open Gmail** → click **“Compose”**.  
+3. Use the 📂 and 💾 icons to **save and insert templates** directly inside the compose box.  
+
+That’s it — your templates stay saved locally and are always just one click away.  
+
+---
+
+## 👥 Perfect For  
+
+- Recruiters sending multiple outreach emails  
+- Sales and marketing teams  
+- Freelancers and professionals managing client communications  
+- Anyone who sends similar emails frequently  
+
+---
+
+## 🧩 Permissions Justification  
+
+| Permission | Purpose |
+|-------------|----------|
+| `activeTab` | Detects the active Gmail tab to display the Smartly Email toolbar. |
+| `scripting` | Injects scripts to enable template save/insert functions within Gmail. |
+| `storage` | Stores saved templates and preferences locally in the browser. |
+| `https://mail.google.com/*` | Runs only on Gmail to interact with the compose window. |
+
+Smartly Email **does not use any remote code or external resources.**
+
+---
+
+## 🔒 Privacy Policy  
+
+Smartly Email is built with **privacy first**.  
+We do **not** collect, store, or share your personal data externally.  
+All templates and preferences are stored locally in your browser using Chrome’s `storage` API.  
+
+Read the full policy here:  
+👉 [Privacy Policy](./PRIVACY_POLICY.md)
+
+---
+
+## 🌟 Upcoming Features  
+
+- Cloud sync across devices  
+- Auto-insert signatures and personalization  
+- Email tone changer (professional, casual, friendly)  
+- Smart automation (read status, template suggestions, etc.)
+
+---
+
+## 💬 Feedback & Support  
+
+We’d love your feedback!  
+Try Smartly Email and **share your thoughts or suggestions in the comments** — it helps us improve.  
+
+📧 **Contact:** [ashishauti123@gmail.com](mailto:ashishauti123@gmail.com)
+
+---
+
+## 🧠 Author  
+
+**Developed by:** Ashish Auti  
+**Version:** 1.0.0  
+**License:** MIT  
+
+---
+
+## ⚠️ Disclaimer  
+
+Smartly Email is an independent tool and is **not affiliated with, sponsored by, or endorsed by Google or Gmail**.  
+All trademarks are the property of their respective owners.  
+
+---
